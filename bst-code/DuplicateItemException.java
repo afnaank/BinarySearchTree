@@ -12,6 +12,7 @@ public class DuplicateItemException extends RuntimeException
     {
         super( );
     }
+    
     /**
      * Construct this exception object.
      * @param message the error message.
