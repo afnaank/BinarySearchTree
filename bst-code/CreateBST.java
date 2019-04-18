@@ -1,3 +1,5 @@
+/**
+* Uses the BinarySearchTree wrapper to create a binary search tree
 public class CreateBST
 {
 	public static void main(String[] args)
@@ -43,7 +45,6 @@ public class CreateBST
 		else
 			System.out.println(num + " Found!");
 		
-		
-		System.out.println(bst.printSum());
+		System.out.println("Sum of bst elements: " + bst.printSum());
 	}
 }
