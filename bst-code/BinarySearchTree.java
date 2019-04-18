@@ -1,3 +1,6 @@
+/**
+* Implementation of a binary search tree using BinaryNode
+*/
 public class BinarySearchTree<T extends Comparable<? super T>>
 {
 	// ==============================
