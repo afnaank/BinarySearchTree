@@ -1,6 +1,6 @@
 /**
-	WEISS edition BinaryNode
-    @author Mark Allen Weiss
+* WEISS edition BinaryNode
+* @author Mark Allen Weiss
 */
 public class BinaryNode<T>
 {
@@ -77,6 +77,7 @@ public class BinaryNode<T>
 			System.out.println(x.data);
 		}
 	}
+	
 	// =====================
 	// Other Methods
 	// =====================
