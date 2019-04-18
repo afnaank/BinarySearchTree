@@ -6,7 +6,7 @@
 public class ItemNotFoundException extends RuntimeException
 {
     /**
-     * Construct this exception object.
+     * Construct this exception object
      */
     public ItemNotFoundException( )
     {
@@ -14,7 +14,7 @@ public class ItemNotFoundException extends RuntimeException
     }
     
     /**
-     * Construct this exception object.
+     * Construct this exception object
      * @param message the error message.
      */
     public ItemNotFoundException( String message )
